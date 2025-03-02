@@ -29,7 +29,7 @@ This image captures the process of exporting parts of the capture—specifically
 ![Exporting HTTP/Text Files](images/Screenshot-04.png)
 
 
-**Screenshot 5 – Highlighting an IP Address:**  
+**Highlighting an IP Address:**  
 In this screenshot, attention is drawn to a file that contains an IP address (18.222.37.xxx). This step likely indicates that the traffic from this specific IP holds the important data or flag.
 
 ![Highlighting an IP Address](images/Screenshot-05.png)
